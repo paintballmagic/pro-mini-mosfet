@@ -1,0 +1,20 @@
+Partlist exported from D:/Users/paint/Documents/eagle/noid-driver v005/Simple-Fet -v015-pro-mini.sch at 8/6/2017 3:50 PM
+
+Part Value                 Device                              Package                      Description                             MF                      MPN              OC_NEWARK PROD_ID    SF_SKU    VALUE
+D1   RED                   LED-RED1206                         LED-1206                     Assorted Red LEDs                                               HSMC-C150        05M0343   DIO-09912            RED  
+JP2  Sol2                  M02PTH                              1X02                         Header 2                                MOLEX                   22-23-2021       25C3832                             
+JP3  Battery               M02PTH                              1X02                         Header 2                                KEYSTONE ELECTR         2239             59K0357                             
+JP4  Sol1                  M02PTH                              1X02                         Header 2                                MOLEX                   22-23-2021       25C3832                             
+JP5  IR Send               M02PTH                              1X02                         Header 2                                FAIRCHILD SEMICONDUCTOR QEE122           83C0473                             
+JP6  IR IN                 M02PTH                              1X02                         Header 2                                FAIRCHILD SEMICONDUCTOR QEE113           78K6116                             
+M1   ARDUINO-PRO-MINI-5.0V ARDUINO-PRO-MINI-5.0V               ARDUINO-PRO-MINI             Arduino Pro Mini and compatible devices                                                                              
+Q3   FET1                  MOSFET-NREFLOW                      SOT23                        N-Channel Mosfet                                                SI2392ADS-T1-GE3 01AC4985                            
+Q4   FET2                  MOSFET-NREFLOW                      SOT23                        N-Channel Mosfet                                                SI2392ADS-T1-GE3 01AC4985                            
+R1   10k                   R-US_M1206                          M1206                        RESISTOR, American symbol                                       MC1206S4F1002T5E 79M6135                             
+R2   1k                    R-US_M1206                          M1206                        RESISTOR, American symbol                                       RT1206FRE071KL   66R9771                             
+R3   220                   R-US_M1206                          M1206                        RESISTOR, American symbol               BOURNS, INC.            CR1206FX2200ELF  01J3162                             
+R4   220                   R-US_M1206                          M1206                        RESISTOR, American symbol               BOURNS, INC.            CR1206FX2200ELF  01J3162                             
+R5   10k                   R-US_M1206                          M1206                        RESISTOR, American symbol                                       MC1206S4F1002T5E 79M6135                             
+R16  1k                    R-US_M1206                          M1206                        RESISTOR, American symbol                                       RT1206FRE071KL   66R9771                             
+S1   Button                MOMENTARY-SWITCH-SPST-SMD-6.0X3.5MM TACTILE_SWITCH_SMD_6.0X3.5MM Momentary Switch (Pushbutton) - SPST                                             unknown   SWCH-00815 COM-08229      
+U$2  OLEDHEADER            OLEDHEADER                          OLED-CON                                                                                                                                          
